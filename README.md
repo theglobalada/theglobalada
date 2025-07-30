@@ -1,4 +1,4 @@
-👋 Hi, I am Onyinyechi Lekweuwa — but you can call me Ada!
+👋 Hi, I am Onyinyechi Lekweuwa - but you can call me Ada!
 
 ---
 
@@ -15,4 +15,4 @@ I am an aspiring Blockchain and Frontend Developer. Currently learning HTML, CSS
 - [GitHub](https://github.com/theglobalada)
   
 “Start where you are. Use what you have. Do what you can.”  
-  — Arthur Ashe.
+  - Arthur Ashe.
