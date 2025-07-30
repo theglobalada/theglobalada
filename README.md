@@ -3,12 +3,10 @@
 ---
 
 Aspiring Blockchain and Frontend Developer. Currently learning HTML, CSS, Tailwind, GitHub, and smart contracts in Web3.
----
 💻 Projects
 - 🐱 Cat Photo App (HTML)
 - ✅ To-Do List App (HTML, CSS, Tailwind)
 - 📁 See more: [GitHub Repos](https://github.com/theglobalada?tab=repositories)
----
 📫 Connect
 - [Twitter](https://x.com/theglobalada)
 - [LinkedIn](https://www.linkedin.com/in/onyinyechi-lekweuwa/)
