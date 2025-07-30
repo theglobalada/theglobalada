@@ -2,7 +2,7 @@
 
 ---
 
-Aspiring Blockchain and Frontend Developer. Currently learning HTML, CSS, Tailwind, GitHub, and smart contracts in Web3.
+I am an aspiring Blockchain and Frontend Developer. Currently learning HTML, CSS, Tailwind, GitHub, and smart contracts in Web3.
 
 💻 Projects
 - 🐱 Cat Photo App (HTML)
